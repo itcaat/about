@@ -1,0 +1,4 @@
+baseURL = 'https://itcaat.pages.dev/'
+languageCode = 'en-us'
+title = 'It Cat'
+theme = 'risotto'
