@@ -1,4 +1,4 @@
-baseURL = 'https://itcaat.pages.dev/'
+baseURL = 'https://itcaat.pages.dev/about'
 languageCode = 'en-us'
 title = 'It Cat'
 theme = 'risotto'
